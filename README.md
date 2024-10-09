@@ -11,4 +11,4 @@ The source code is present in Source/FloorPlanGeneration/MyCharacter file.
 
 Video Link:
 
-https://drive.google.com/file/d/1y5FLw1EA5fuxdubGir3XLWNiegZJQntG/view?usp=drive_link
+https://drive.google.com/file/d/1cf_3jOuAGwVTctj5x0yJnkuurn0t0j_H/view?usp=drive_link
