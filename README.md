@@ -1,6 +1,6 @@
 # 2dFloorplanTo3D
 
-The idea of this project is to generate 3d house layout using 2d floorplan images in games.
+It was a POC to generate 3d house layout using 2d floorplan images in games.
 This module was to be integrated in a metaverse.
 Developed on UE5.1.
 
